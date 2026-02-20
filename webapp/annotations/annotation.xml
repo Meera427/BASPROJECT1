@@ -19,7 +19,7 @@
             <Annotations Target="NorthwindModel.Supplier">
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
-                        <PropertyPath>SupplierID</PropertyPath>
+                        <PropertyPath>Fax</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
